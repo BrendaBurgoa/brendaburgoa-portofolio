@@ -1,0 +1,290 @@
+[
+    {
+    "id":1,
+    "name" : "Guillermo Giudici", 
+    "departments" :["board"],
+    "position" :"CEO",
+    "headShot" :"Guille.jpg",
+    "bio" :"20+ years developing companies. Investor. Non Profit Organizations Philanthropist. Proven worldwide vision about business. 'Always one step ahead'.",
+    "socials" : [
+        {
+        "url":"https://www.linkedin.com/in/guillermo-giudici/",
+        "social":"LinkedIn"
+        }
+    ]
+    },
+    {
+        "id":2,
+        "name" : "Patricio Gómez Pawelek", 
+        "departments" :["board"],
+        "position" :"COO",
+        "headShot" :"Pato.jpg",
+        "bio" :"Founder; CEO of Jobomas.com (Top Jobboard in Latin America, with over 40 million users worldwide). 20+ years as Business Coach and Advisor. Angel Investor. Founded 10+ internet platforms and SAAS companies. Lawyer; Marketing Expert.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/patriciogp/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":3,
+        "name" : "Darío Georges", 
+        "departments" :["board"],
+        "position" :"art Director",
+        "headShot" :"dario.png",
+        "bio" :"Video game art director and producer. He has developed games for clients such as Disney, VH1, Comedy Central, Bubballoo, Mattel, Paka Paka and Lego, among many others. In addition to games, he has worked in various areas of digital development, from educational tools to software synthesizers.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/dariogeorges",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":4,
+        "name" : "Agustín Pontura", 
+        "departments" :["board"],
+        "position" :"Senior Unity Dev",
+        "headShot" :"agus.jpg",
+        "bio" :"Game developer since he was 9 years old. He has developed video games, mobile apps, VR, AR and tools for clients like Lego, Mattel, Comedy Central, American Greetings, VH1, Rolling Stone Magazine and more. He holds a Bachelor's degree in Image and sound design and is a university professor.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/agust%C3%ADn-pontura-3308b745/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":5,
+        "name" : "Damian Martinelli", 
+        "departments" :["board"],
+        "position" :"CTO",
+        "headShot" :"damian.jpg",
+        "bio" :"Sofware engineer with heavy experience building high traffic Internet sites. Building decentralized applications since 2020, using Scaffold-ETH, Solidity, Hardhat, among others.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/damianmartinelli/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":6,
+        "name" : "Juan Pablo Amato", 
+        "departments" :["development"],
+        "position" :"Senior Unity Dev",
+        "headShot" :"amato.jpg",
+        "bio" :"Graduated in Composition with Electroacoustic Media, he made interactive developments for Fundación Telefónica, Centro Cultural de España in Buenos Aires, Tecnópolis, Banco Itaú, among others. He developed the sound design for several video games for companies such as QB9, Yuisy and Tipitap. He taught Max / MSP courses in the Master of Technology and Aesthetics of Electronic Arts, Universidad Nacional de Tres de Febrero.",
+        "socials" : []
+        }
+        ,
+    {
+        "id":7,
+        "name" : "Santiago Perez Losanovsky", 
+        "departments" :["game design"],
+        "position" :"Product Owner",
+        "headShot" :"Santiago.jpg",
+        "bio" :"Experienced Game & Level Designer with a passion for innovation, creativity and experimentation. Carried out roles of Leadership and Ownership for several projects within the Mobile and VR industries. Professor at the Image Campus Institute located in B.A., Argentina.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/santiago-p%C3%A9rez-losanovscky-a91877172/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":8,
+        "name" : "Brenda Burgoa", 
+        "departments" :["art"],
+        "position" :"UX | UI Designer",
+        "headShot" :"Brenda.jpg",
+        "bio" :"Versatile multimedia designer. She started out as a freelance designer while working on a variety of projects, from identity design to web development. She is a UX design teacher and shares her knowledge with the next generation of designers.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/brenda-burgoa/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":9,
+        "name" : "Adriel Fontanet", 
+        "departments" :["game design"],
+        "position" :"Game Designer",
+        "headShot" :"adriel.png",
+        "bio" :"Junior Game Designer and Narrative Designer. Participating in various projects and video games to learn every corner of this field. Arduous creative thinker trying to bring the true potential of video games and storytelling to everyone. Let me tell you a story or two.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/adrielfontanetgonzalez/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":10,
+        "name" : "Rosana Román", 
+        "departments" :["art"],
+        "position" :"UI Designer",
+        "headShot" :"rory.jpeg",
+        "bio" :"2D Artist and UX/UI designer. She graduated as a Graphic Designer at University of Buenos Aires. Since 2010, she has made concept art for mobile games. Participated in Coco Girl for Facebook Gaming, various branding projects for companies like Warner, McDonald’s, Rappi, and her last work was as a product artist for Pet Shelter and the famous Trivia Crack.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/roryroman/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":11,
+        "name" : "Germán Capelletti", 
+        "departments" :["economy"],
+        "position" :"Economy Designer",
+        "headShot" :"GermanCapelletti.png",
+        "bio" :"Economist and passionate gamer, I contribute analytical skills to both traditional and crypto gaming industries, specializing in crafting balanced economic models. Collaborating with game designers, my expertise in economics ensures the creation of enjoyable, and balanced games.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/german-cappelletti/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":12,
+        "name" : "Jeremías Coppola", 
+        "departments" :["economy"],
+        "position" :"Economy Designer",
+        "headShot" :"JeremiasCoppola.png",
+        "bio" :"Finance specialist with a deep understanding of both traditional finance and crypto. Leveraging my expertise in financial markets, I provide insightful economic analyses and predictions tailored for both traditional and crypto gaming environments.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/jeremias-coppola/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":13,
+        "name" : "Thomas Bransburg", 
+        "departments" :["economy"],
+        "position" :"Economy Design",
+        "headShot" :"ThomasBransburg.png",
+        "bio" :"Senior Data Analyst dedicated to optimizing sustainable ecosystems, I focus on fostering long-term success for players and developers in both gaming and crypto industries. My expertise lies in data-driven strategies that incorporate blockchain technology.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/thomas-bransburg/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":14,
+        "name" : "Tomás Fuld", 
+        "departments" :["economy"],
+        "position" :"Economy Design",
+        "headShot" :"TomasFuld.png",
+        "bio" :"Economist with a fervor for gaming and a keen interest in both traditional games and cryptocurrencies, I specialize in the intricate field of game economy design. Applying economic principles to both realms, I craft engaging and sustainable in-game economies, utilizing blockchain technology for crypto games. My goal is to deliver rewarding gaming experiences for every type of player.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/tomas-andres-fuld-2bb00715b/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":15,
+        "name" : "Julián Aznar", 
+        "departments" :["sound design"],
+        "position" :"FX Artist",
+        "headShot" :"julianaznar.png",
+        "bio" :"Musician and producer with more than 20 years of experience. His album 'Early Singles' was nominated for a Gardel Award. From his single 'Electric Gigolo' came The Game, making him the first argentine artist to have his own videogame.",
+        "socials" : []
+        }
+        ,
+    {
+        "id":16,
+        "name" : "Eamon Bourke", 
+        "departments" :["writing"],
+        "position" :"Writer",
+        "headShot" :"Eamon.jpg",
+        "bio" :"Our English Comedian of The Year Award Nominee made his US television debut on FOX’s Showtime at The Apollo and soon followed that up with a finalist winning run on Season 8 of NBC Comcast's knockout television show, Trial By Laughter. Off stage he writes dialog and more for the stars of Fulbo Galaxy.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/eamon-bourke",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":17,
+        "name" : "Martín Caro", 
+        "departments" :["game design"],
+        "position" :"qa Analyst",
+        "headShot" :"martincaro.png",
+        "bio" :"I have a passion for video games. Since 2020 to date, I have been training as a game designer and tester. Currently working as a game qa. Making the dream come true.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/martin-caroc/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":18,
+        "name" : "Ayelén García", 
+        "departments" :["art"],
+        "position" :"Illustrator",
+        "headShot" :"ayu.png",
+        "bio" :"Illustrator oriented to visual development for video game, animation and publishing projects. In parallel, she is a university professor at the UNLP where her love for professional drawings and the habit of transformation that she proposes in teaching come together.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/ayugarcia/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":19,
+        "name" : "Cesar Jara", 
+        "departments" :["art"],
+        "position" :"Illustrator",
+        "headShot" :"cesar.jpg",
+        "bio" :"Illustrator and 2D animator with 15 years of experience in video games for clients such as Google, Disney, Cartoon Network, Nickelodeon, Lego, Facebook, Fox, Coca Cola, among others. He also worked making art for different soccer teams and groups such as St. Pauli, Fenerbahçe, Deportivo Cuenca, Detroit FC, Boca es Pueblo and CHF.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/cesarjara/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+        ,
+    {
+        "id":20,
+        "name" : "Tony Ganem", 
+        "departments" :["art"],
+        "position" :"Illustrator",
+        "headShot" :"Tony.png",
+        "bio" :"Illustrator and Graphic Designer from the University of Buenos Aires. For over a decade he has worked in various studios. Today he enjoys being a freelancer, working for clients such as Disney, Nickelodeon, Discovery, National Geographic, RollingStone, Visa, Volvo, Penguin Readers and many others.",
+        "socials" : [
+            {
+            "url":"https://www.linkedin.com/in/tony-ganem-7933335/",
+            "social":"LinkedIn"
+            }
+        ]
+        }
+]

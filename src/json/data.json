@@ -1,0 +1,268 @@
+[    {
+    "id":1,
+    "title": "Kekspace",
+    "shortdescription":"Kekspace is like Habbo Hotel but with Pepe the Frogs all over the place",
+    "description":"My job here was to create prototypes and wireframes. Also, I worked on the UI.",
+    "developmentType":["Video games"],
+    "projectLogo":"",
+    "modalBanner":"kekspace_cover.png",
+    "cardBanner":"kekspace_cover.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"kekspace.png",
+            "alt":"Fulbo Galaxy"
+        },
+        {
+            "id":2,
+            "url":"kekspace_1.png",
+            "alt":"Fulbo Galaxy"
+        },
+        { "id":3,
+            "url":"kekspace_2.png",
+            "alt":"Fulbo Galaxy"
+        }
+    ],
+    "areas":["UX / UI Design"],
+    "year":"2024",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"",
+        "logo":"",
+        "logo_color":""
+    },
+    "webLink":"",
+    "videoLink":"https://www.youtube.com/embed/7Dtc0CHtGOM?si=R1P7LIPvqa45TKGK",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+
+},
+    {
+    "id":2,
+    "title": "Fulbo Galaxy",
+    "shortdescription":"Fulbo Galaxy is a mobile game where the soccer is out of this world.",
+    "description":"My job here was to create prototypes and wireframes, collaborate with the interface design and the implementation in Unity.",
+    "developmentType":["Video games"],
+    "projectLogo":"FG_Logo256.png",
+    "modalBanner":"fulbogalaxy_2.png",
+    "cardBanner":"fulbogalaxy_2.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"fulbogalaxy_1.png",
+            "alt":"Fulbo Galaxy"
+        },
+        { "id":2,
+            "url":"fulbogalaxy_2.png",
+            "alt":"Fulbo Galaxy"
+        }
+        ,
+        { "id":3,
+            "url":"fulbogalaxy_3.png",
+            "alt":"Fulbo Galaxy"
+        }
+        ,
+        { "id":4,
+            "url":"fulbogalaxy_4.png",
+            "alt":"Fulbo Galaxy"
+        }
+    ],
+    "areas":["Client Side Development", "UX / UI Design"],
+    "year":"2021 - 2023",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"",
+        "logo":"",
+        "logo_color":""
+    },
+    "webLink":"",
+    "videoLink":"https://www.youtube.com/embed/aNXg0PsUcHE?si=ou6rxBD6T-G9o77d&amp;",
+    "socials":{
+        "instagram":"https://www.instagram.com/fulbogalaxy/",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+
+},
+{
+    "id":3,
+    "title": "Golf Galaxy",
+    "shortdescription":"Golf Galaxy is a golf game made for the Galaxy Metaverse.",
+    "description":"Golf Galaxy is the second game made for the Galaxy Metaverse. I worked here collaborating with the implementation in Unity.",
+    "developmentType":["Video games"],
+    "projectLogo":"FSGolf_Logo.png",
+    "modalBanner":"golfGalaxy_1.png",
+    "cardBanner":"golfGalaxy_1.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"golfGalaxy_1.png",
+            "alt":"Golf Galaxy"
+        },
+        { "id":2,
+            "url":"golfGalaxy_2.png",
+            "alt":"Golf Galaxy"
+        }
+    ],
+    "areas":["Client Side Development"],
+    "year":"2022",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"",
+        "logo":"",
+        "logo_color":""
+    },
+    "webLink":"",
+    "videoLink":"https://www.youtube.com/embed/8D2NFGSZeKM?si=gTcKjYaPzB0qB2SP",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+
+}
+,
+{
+    "id":4,
+    "title": "FCR Racing",
+    "shortdescription":"Racing combines the thrill of high-speed racing with the strategy of swapping between lanes and avoiding obstacles.",
+    "description":"I worked here collaborating with the implementation in Unity.",
+    "developmentType":["Video games"],
+    "projectLogo":"FSRacing_Logo.png",
+    "modalBanner":"FSRacing_1.png",
+    "cardBanner":"FSRacing_1.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"FSRacing_1.png",
+            "alt":"FSRacing"
+        }
+    ],
+    "areas":["Client Side Development"],
+    "year":"2023",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"FCS",
+        "logo":"control.png",
+        "logo_color":"control_color.png"
+    },
+    "webLink":"",
+    "videoLink":"",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+
+}
+,
+{
+    "id":5,
+    "title": "FCSE Fanvatar Creator and Store",
+    "shortdescription":"This tool allows users to create and customize their characters according to their preferences and style, including options for choosing appearance, clothing, accessories, and other elements.",
+    "description":"Work on the prototype of the customizer and then on its implementation. We developed an Avatar Creator for FCS. This tool allows users to create and customize their characters according to their preferences and style, including options for choosing appearance, clothing, accessories, and other elements. Additionally, they are linked to a store where users can purchase or unlock additional items for their characters. Users can purchase these items with virtual in-game currency, real-world currency, or by participating in in-game events and earning achievements.",
+    "developmentType":["Digital Tools"],
+    "projectLogo":"",
+    "modalBanner":"Customizer_1.png",
+    "cardBanner":"Customizer_1.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"Customizer_1.png",
+            "alt":"Customizer"
+        },
+        { "id":2,
+            "url":"Customizer_2.png",
+            "alt":"Customizer"
+        },
+        { "id":3,
+            "url":"Customizer_3.png",
+            "alt":"Customizer"
+        }
+    ],
+    "areas":["Client Side Development","UX Design"],
+    "year":"2023",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"FCS",
+        "logo":"control.png",
+        "logo_color":"control_color.png"
+    },
+    "webLink":"",
+    "videoLink":"",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"https://apps.apple.com/es/app/the-control-app/id1548428812",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+
+}
+]

@@ -1,0 +1,476 @@
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+
+/* HOME */
+
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////// */
+/* HERO */
+/* ////////////////////////////////////////////// */
+#home-hero {
+  background-image: url('../images/hero-bg.svg');
+  background-size: contain;
+  background-position: center;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.col-left-hero {
+  width: 45%;
+}
+
+.col-right-hero {
+  width: 55%;
+}
+
+/* ////////////////////////////////////////////// */
+/* BACKERS LOGO SECTION*/
+/* ////////////////////////////////////////////// */
+
+.backer-logos {
+  padding-bottom: 100px;
+  margin-bottom: 100px;
+}
+
+.backer-logos-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  row-gap: 50px;
+  column-gap: 100px;
+  margin-bottom: 100px;
+  align-content: center;
+  align-items: center;
+}
+
+.backer-logo {
+  max-width: 200px;
+  max-height: 100px;
+}
+
+.logo-chorizo {
+  max-width: 150px;
+  max-height: 120px;
+}
+
+.down-arrow-icon {
+  max-width: 100px;
+}
+
+.centered-arrow {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* ////////////////////////////////////////////// */
+/* HOME PROJECT CATEGORIES SECTION*/
+/* ////////////////////////////////////////////// */
+
+#project-section h4 {
+  text-align: center;
+}
+
+#project-section {
+  background: url('../images/projects-left.svg'), url('../images/projects-right.svg');
+  background-position: 0 66px, top right;
+  background-repeat: no-repeat;
+  background-size: 156px, 474px;
+}
+
+.projects-banner-button {
+  background-image: url('../images/projects-banner-button-bg.png');
+  background-size: cover;
+  min-height: 440px;
+  border-radius: 25px;  
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 40px;
+  margin: 90px 0;
+  background-position: center;
+}
+
+.projects-banner-button:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  transition: all;
+}
+
+.projects-banner-button:hover img {
+  animation: moveButton 1.3s ease-in-out infinite;
+  transition: all;
+}
+
+
+.projects-banner-button .arrow-icon {
+  max-width: 75px;
+  margin-bottom: 1rem;
+}
+
+.project-categories-home-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.project-categories-home-container span {
+  font-weight: 600;
+}
+.single-project-categories-home {
+  max-width: 280px;
+  background-color: #173cad;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+  padding: 25px;
+}
+
+.single-project-categories-home h6 {
+  padding-bottom: 1rem;
+}
+
+.single-project-categories-home p {
+  font-size: 16px;
+}
+
+.category-icon {
+  max-width: 140px;
+  margin: auto;
+}
+
+
+/* ////////////////////////////////////////////// */
+/* TEAM */
+/* ////////////////////////////////////////////// */
+
+#meet-our-team h3 {
+  text-align: center;
+  padding: 150px 0 100px 0;
+}
+
+.team-container {
+  position: relative;
+  background: radial-gradient(circle, rgba(9,15,54,1) 0%, rgba(13,29,124,1) 50%);
+}
+
+.team-container::before {
+  content: "";
+  height: 100%;
+  width: 100px;
+  background: linear-gradient(90deg, rgba(13,29,124,1) 43%, rgba(255,255,255,0) 100%);
+  position: absolute;
+  left: -20px;
+  z-index: 10;
+  top: 0;
+}
+
+.team-container::after {
+  content: "";
+  height: 100%;
+  width: 100px;
+  background: linear-gradient(270deg, rgba(13,29,124,1) 43%, rgba(255,255,255,0) 100%);
+  position: absolute;
+  right: -20px;
+  z-index: 10;
+  top: 0;
+}
+
+.topPartMember .tag {    
+  max-width: 140px;
+  display: block;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+
+.memberPicContainer {
+  width: 130px;
+  height: 130px;
+  border-radius: 200px;
+  overflow: hidden;
+}
+
+.teamCard {
+  border-radius: 25px;
+  overflow: hidden;
+  max-width: 500px;
+}
+
+.topPartMember {
+  padding: 30px;
+  background-color: white;
+}
+
+.team-details {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.memberName {
+  max-width: 60%;
+}
+
+.team-details h5 {
+  color: #0d1d7c;
+}
+
+.team-details h6 {
+  color: #1f7afc;
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 22px;
+}
+
+.team-content {
+  background-color: #173cad;
+  padding:30px;
+}
+
+.memberSocials {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.memberSocial {
+  background-color: #25d7fd;
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  border-radius: 10px;
+  overflow: hidden;
+  text-decoration: none;
+  min-width: 200px;
+}
+
+.memberSocialIcon {
+  background-color: white;
+  height: 100%;
+  position: relative;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.memberSocialIcon::after {
+  content: "";
+  display: block;
+  height: 70px;
+  width: 30px;
+  background-image: url('../images/arrowfilled.svg');
+  position: absolute;
+  right: -30px;
+  top: 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.memberSocialIcon img {
+  width: 25px;
+  display: block;
+}
+
+.memberSocialName {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.memberSocialName span {
+  color: #0d1d7c;
+  font-weight: bold;
+}
+
+.flicking-pagination-bullet {
+  background-color: rgb(10 10 10 / 40%) !important;
+}
+
+.flicking-pagination-bullet-active {
+  background-color: #25d7fd !important;
+}
+
+/* ////////////////////////////////////////////// */
+/* META CRYPTO GAME */
+/* ////////////////////////////////////////////// */
+
+#meta-crypto-game {
+  background-image: url('../images/crypto-bg.svg');
+  background-position: center bottom;
+  padding: 100px 0;
+  background-size: 83%;
+  background-repeat:no-repeat ;
+}
+
+#meta-crypto-game .col-left,
+#meta-crypto-game .col-right {
+  width: 50%;
+}
+
+#meta-crypto-game .col-right {
+  padding-top: 150px;
+  background-image: url('../images/crypto-phone-bg.svg');
+  background-position: center ;
+}
+
+#meta-crypto-game .col-left img {
+  padding-bottom: 50px;
+}
+
+#meta-crypto-game h3 {
+  margin-bottom: 50px;
+}
+
+/* ////////////////////////////////////////////// */
+/* CONTACT */
+/* ////////////////////////////////////////////// */
+#contact {
+  padding: 100px 0;
+  background-image: url('../images/contact-bg.svg');
+  background-size: 130%;
+  background-position: center -32%;
+}
+
+#contact h3:first-of-type {
+  padding-top: 150px;
+}
+
+#contact h3 {
+  text-align: center;
+}
+
+
+.form-inputs {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#contact input {
+  border: none;
+  border-radius: 10px;
+  min-height: 70px;
+  width: 46%;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px;
+}
+
+#contact textarea {
+  padding: 10px;
+  margin: 30px 0;
+  height: 232px;
+  max-width: 98%;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+#contact input[type=submit] {
+  color: white;
+  max-width: 200px;
+  margin: auto;
+}
+
+.submit-container {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+
+
+
+/* ////////////////////////////////////////////// */
+/* RESPONSIVE */
+/* ////////////////////////////////////////////// */
+@media (max-width: 1050px) {
+  /* projects */
+  .project-categories-home-container{
+    flex-direction: column;
+    align-items: center;
+  }
+  .col_1-3 {
+    width: 100%;
+    margin: 20px 0;
+    max-width: fit-content;
+  }
+}
+
+@media (max-width: 780px) {
+  /* HERO */
+  #home-hero {
+    padding: 30px 0;
+  }
+  #home-hero>div {
+    width: 100%;
+  } 
+  /* backers */
+  .backer-logos-container {
+    row-gap: 10px;
+  }
+  /* crypto */
+  #meta-crypto-game .row>div {
+    width: 100%;
+  }  
+  /* team */
+  .teamCard {
+    margin: auto;
+  }
+  .team-container::after, .team-container::before {
+    display: none;
+  }
+  .flicking-camera .panel {
+    width: 100%;
+  }
+  .memberSocials {
+    justify-content: center;
+    row-gap: 20px;
+  }
+  .team-details {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+  }
+  .topPartMember {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .memberName {
+    max-width: 100%;
+  }
+  /* contact */
+  .form-inputs {
+    flex-direction: column;
+  }
+  #contact input {
+    width: 98%;
+    margin: 15px 0;
+  }
+}

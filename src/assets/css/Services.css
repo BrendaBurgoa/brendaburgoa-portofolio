@@ -1,0 +1,122 @@
+/* ////////////////////////////////////////////// */
+/* SERVICES */
+/* ////////////////////////////////////////////// */
+
+/* ////////////////////////////////////////////// */
+/* SINGLE SERVICE */
+/* ////////////////////////////////////////////// */
+
+
+.service-title {
+  display: inline-flex;
+  column-gap: 20px;
+  align-items: center;
+}
+
+.service-services-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 35px 0 50px;
+  max-width: 800px;
+  margin-left: 95px;
+}
+
+.service ul li {
+  list-style: none;
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.service ul li::before {
+  content: "";
+  width: 15px;
+  height: 14px;
+  background-position: center;
+  background-size: cover;
+}
+
+.service-title::before {
+  display: block;
+  content: "";
+  min-width: 70px;
+  height: 70px;
+  border-radius: 100px;
+  background-repeat: no-repeat;
+  background-size: 40px;
+  background-position: center;
+}
+
+.videogame-dev::before {
+  background-image: url('../images/joystick.svg') ;
+}
+
+.tools::before {
+  background-image: url('../images/tools.svg') ;
+}
+
+.edu::before {
+  background-image: url('../images/edu.svg') ;
+}
+
+.support::before {
+  background-image: url('../images/support.svg') ;
+}
+
+.service-blue .service-title::before {
+  background-color: #1f7af7;
+}
+
+.service-blue-light .service-title::before {
+  background-color: #00d2ff;
+}
+
+.service-blue-light ul li::before {
+  background-image: url('../images/chevron.svg');
+}
+
+.service-blue ul li::before {
+  background-image: url('../images/chevron-blue.svg');
+}
+
+#services-fcs {
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 100px 0;
+}
+
+.col-left-fcs {
+  width: 40%;
+}
+
+.col-left-fcs .down-arrow-icon {
+  padding-bottom: 20px;
+}
+
+.col-right-fcs {
+  width: 50%;
+}
+
+
+/* ////////////////////////////////////////////// */
+/* RESPONSIVE */
+/* ////////////////////////////////////////////// */
+
+@media (max-width: 780px) {
+
+  .service-services-container {
+    flex-direction: column;
+    margin-left: 0;
+  }
+  
+  .service-title::before {
+    display: none;
+  }
+
+    
+  .col-left-fcs, .col-right-fcs {
+    width: 100%;
+    padding: 20px 0;
+  }
+}

@@ -1,0 +1,460 @@
+/* ////////////////////////////////////////////// */
+/* GENERAL SETTINGS */
+/* ////////////////////////////////////////////// */
+
+* {
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+}
+
+.content-container {
+  max-width: 1160px;
+  padding: 30px;
+  margin: auto;
+  overflow: visible;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* ////////////////////////////////////////////// */
+/* COLUMN SYSTEM */
+/* ////////////////////////////////////////////// */
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.col_1-2 {
+  width: 50%
+}
+
+.col_1-3 {
+  width: 33%
+}
+
+
+/* ////////////////////////////////////////////// */
+/* GENERAL BUTTONS */
+/* ////////////////////////////////////////////// */
+.orange-button {
+  border-radius: 10px;
+  background-color: #ff6f6c;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.orange-button:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.no-underline {
+  text-decoration: none !important;
+}
+
+/* ////////////////////////////////////////////// */
+/* FONTS IMPORT */
+/* ////////////////////////////////////////////// */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.poppins-font {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ////////////////////////////////////////////// */
+/* GENERAL FONTS */
+/* ////////////////////////////////////////////// */
+
+.accent-color-font {
+  color: #00d7ff;
+}
+
+.orange-font {
+  color: #ff6f6c;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, button, li, a {
+  font-family: 'Poppins', sans-serif;
+  color: #282828;
+  margin: 0 ;
+}
+
+h1 {
+  font-size: 80px;
+  line-height: 96px;
+}
+
+h2 {
+  font-size: 75px;
+  line-height: 90px;
+}
+
+h3 {
+  font-size: 50px;
+  line-height: 60px;
+}
+
+h4 {
+  font-size: 45px;
+  line-height: 54px;
+}
+
+h5 {
+  font-size: 35px;
+  line-height: 42px;
+}
+
+h6 {
+  font-size: 24px;
+  line-height: 36px;
+  width: 50%;
+  font-weight: 500;
+}
+
+p {
+  font-size: 18px;
+  line-height: 31px;
+}
+
+/* ////////////////////////////////////////////// */
+/* GENERAL COLOR BACKGROUND */
+/* ////////////////////////////////////////////// */
+
+body {
+  background-image: white;
+  background-size: 100% 1024px;
+}
+
+.bg-blue {
+  background-color: #1f7afc;
+}
+
+
+.board, .digital-tools, .storytelling {
+  background-color: #1F7AF7;
+}
+
+.development, .videogames, .video-games {
+  background-color: #6c22fb;
+}
+
+.game-design,.web-design {
+  background-color: #c439ff;
+}
+
+.art, .ar-tools, .ux-design, .ui {
+  background-color: #f6488e;
+}
+
+.sound-design, .art-development {
+  background-color: #f87e53;
+}
+
+.writing, .illustrations, .educational {
+  background-color: #0FB4AB;
+}
+
+.marketing, .eye-candy {
+  background-color: #F2B903;
+}
+
+.economy, .qa-testing {
+  background-color: #4ACE60;
+}
+
+
+/* ////////////////////////////////////////////// */
+/* MENU NAV BAR */
+/* ////////////////////////////////////////////// */
+
+.navbar {
+  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 1rem;
+}
+
+.navLogo {
+  width: 15%;
+  max-width:268px;
+}
+
+.navLogo img {
+  max-width:100%;
+  height: auto;
+}
+
+.active-menu {
+  color: #00d7ff;
+}
+
+#burger {
+  display: none;
+  background-color: transparent;
+  border: none;
+}
+
+#burger img {
+  width: 30px;
+  height: auto;
+}
+
+.navbar  ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: 75px;
+}
+
+.navbar  ul li {
+  list-style: none;
+}
+
+.navbar  ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.navbar  ul li a:hover{
+  color: #00d7ff;
+}
+
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+
+/* FOOTER */
+
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+/* ////////////////////////////////////////////// */
+
+.footer {
+  background-color: #0937a3;
+  min-height: 368px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer-icon img {
+  width: 25px;
+}
+
+.footer-icon:hover {
+  opacity: 0.9;
+}
+
+.footer .navbar {
+  margin-bottom: 30px;
+}
+
+.meet-fulbo {
+  width: 235px;
+  height: 70px;
+  background-color: #00d7ff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  text-decoration: none;
+  margin:30px auto;
+  position: relative;
+  justify-content: center;
+}
+
+.meet-fulbo:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  transition: all;
+}
+
+.meet-fulbo::before {
+  content: "";
+  display: block;
+  width: 96px;
+  height: 90px;
+  background-image: url('../images/fulbo.svg');
+  position: absolute;
+  left: -57px;
+  top: -8px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+.meet-fulbo span {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: #0d1d7c;
+}
+
+#close-menu {
+  display: none;
+}
+
+.error-msg {
+  text-align: center;
+  background-color: #00d7ff;
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0.5em;
+  color: #0d1d7c;
+}
+
+/* ////////////////////////////////////////////// */
+/* RESPONSIVE */
+/* ////////////////////////////////////////////// */  
+
+@media (max-width: 780px) {
+
+  
+  .row {
+    flex-direction: column;
+  }
+
+  h1 {
+    font-size: 50px;
+    line-height: 66px;
+  }
+  
+  h2 {
+    font-size: 45px;
+    line-height: 80px;
+  }
+  
+  h3 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  
+  h4 {
+    font-size: 35px;
+    line-height: 44px;
+  }
+  
+  h5 {
+    font-size: 25px;
+    line-height: 32px;
+  }
+  
+  h6 {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+
+  /* menu */
+
+  #burger {
+    display: block;
+  }
+
+  #menu li {
+    font-size: 30px;
+    margin-bottom: 1rem;
+  }
+
+  #close-menu {
+    display: block;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 40px;
+    width: 50px;
+    z-index: 200;
+    color: white;
+  }
+
+  .header .navbar {
+    padding: 35px;
+    justify-content: space-between;
+  }
+
+  .header .navbar div,.header .navbar ul {
+    display: none;
+  }
+
+  .navLogo {
+    width: 200px;
+  }
+
+  #menu{
+    position: absolute;
+    z-index: 100;
+    top: 33%;
+  }
+
+  #mobile-nav {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 10;
+    background-color: rgba(4, 0, 38, 0.95);
+    top: 0;
+    left: 0;
+  }
+
+  .showMenu {
+    overflow: hidden;
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 30px 0;  
+    align-items: flex-end;
+
+  }
+
+  /* footer */
+  .footer {
+    padding-bottom: 45px;
+  }
+
+  .footer .navbar, .footer .navbar ul {
+    flex-direction: column;
+    text-align: center;
+    row-gap: 15px;
+  }
+
+  .footer .navbar {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+
+}
+
+
+/* ////////////////////////////////////////////// */
+/* ANIMATIONS */
+/* ////////////////////////////////////////////// */  
+
+@keyframes moveButton {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-10px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}

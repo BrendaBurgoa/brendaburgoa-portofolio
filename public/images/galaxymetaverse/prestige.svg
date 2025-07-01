@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 168.73 168.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: url(#Degradado_sin_nombre_79);
+        stroke-miterlimit: 10;
+        stroke-width: 3.54px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #ffc931;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_79" data-name="Degradado sin nombre 79" x1="84.36" y1="168.73" x2="84.36" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1f7af7" stop-opacity="0"/>
+      <stop offset=".12" stop-color="#1f7af7" stop-opacity=".05"/>
+      <stop offset=".32" stop-color="#1f7af7" stop-opacity=".17"/>
+      <stop offset=".6" stop-color="#1f7af7" stop-opacity=".36"/>
+      <stop offset=".92" stop-color="#1f7af7" stop-opacity=".63"/>
+      <stop offset="1" stop-color="#1f7af7" stop-opacity=".7"/>
+    </linearGradient>
+  </defs>
+  <g id="GRAFICA">
+    <g>
+      <circle class="cls-3" cx="84.36" cy="84.36" r="64.89"/>
+      <circle class="cls-1" cx="84.36" cy="84.36" r="82.59"/>
+      <path class="cls-2" d="m75.83,74.18l6.15-12.45c.98-1.98,3.8-1.98,4.78,0l6.14,12.45,13.74,2c2.18.32,3.06,3,1.48,4.54l-9.94,9.69,2.35,13.68c.37,2.18-1.91,3.84-3.86,2.81l-12.29-6.46-12.29,6.46c-1.95,1.03-4.24-.63-3.86-2.81l2.35-13.68-9.94-9.69c-1.58-1.54-.71-4.23,1.48-4.54l13.74-2Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,261 @@
+[
+{
+    "id":1,
+    "title": "Pone Primera",
+    "shortdescription":"Poné Primera is a driver education game for young people and teenagers.",
+    "description":"I worked on the prototype of the game, which was a trivia game in a car. Poné Primera is an educational game for young people and teenagers. It consists of different trivia related to driver education and proper driving etiquette.",
+    "developmentType":["Video games", "Educational"],
+    "projectLogo":"poneprimera_Logo.png",
+    "modalBanner":"poneprimera_1.png",
+    "cardBanner":"poneprimera_1.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"poneprimera_1.png",
+            "alt":""
+        }
+    ],
+    "areas":["UX Design"],
+    "year":"2021",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"Shell",
+        "logo":"shell.png",
+        "logo_color":"shell_color.png"
+    },
+    "webLink":"",
+    "videoLink":"",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+    
+},
+{
+    "id":2,
+    "title": "Wine Totem",
+    "shortdescription":"Tienda Inglesa's Virtual Totem was a tool which contained a Digital Sommelier that helped people choose wines according to their preferences, as well as possible pairings with food.",
+    "description":"Worked on the design of the app. Tienda Inglesa's Virtual Totem was a tool which contained a Digital Sommelier that helped people choose wines according to their preferences, as well as possible pairings with food. It was connected to the supermarket's product database, and updated prices, images and discounts in real time.",
+    "developmentType":["Digital Tools"],
+    "projectLogo":"",
+    "modalBanner":"tiendaingles.png",
+    "cardBanner":"tiendaingles.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"tiendaingles_1.png",
+            "alt":"tienda inglesa"
+        },
+        { "id":2,
+            "url":"tiendaingles_2.png",
+            "alt":"tienda inglesa"
+        },
+        { "id":3,
+            "url":"tiendaingles_3.png",
+            "alt":"tienda inglesa"
+        }
+    ],
+    "areas":["UX / UI Design"],
+    "year":"2022",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"Tienda Inglesa",
+        "logo":"tiendaInglesa.png",
+        "logo_color":"tiendaingles_color.png"
+    },
+    "webLink":"",
+    "videoLink":"",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+},
+{
+    "id":3,
+    "title": "Vocaciones AR",
+    "shortdescription":"Vocaciones AR was a development in Augmented Reality for a stand at Tecnopolis.",
+    "description":"I worked on the visual design of the experiences and the creation of their games. Vocaciones AR was a development in Augmented Reality for a stand at Tecnopolis. The idea was for children and young people to enter a room and play a variety of mini-games associated with different worlds of work.",
+    "developmentType":["AR Tools"],
+    "projectLogo":"",
+    "modalBanner":"ra_1.png",
+    "cardBanner":"ra_2.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"ra_1.png",
+            "alt":"ra"
+        },
+        { "id":2,
+            "url":"ra_2.png",
+            "alt":"ra"
+        },
+        { "id":3,
+            "url":"ra_3.png",
+            "alt":"ra"
+        },
+        { "id":4,
+            "url":"ra_4.png",
+            "alt":"ra"
+        }
+    ],
+    "areas":["UI Design"],
+    "year":"2021",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"Tecnopolis",
+        "logo":"tecnopolis.png",
+        "logo_color":"tecnopolis_color.png"
+    },
+    "webLink":"",
+    "videoLink":"",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+},
+{
+    "id":4,
+    "title": "Huo'Ona Cuentos",
+    "shortdescription":"Huo'Ona Cuentos is an educational game that immerses children in a world where the magic of stories merges with the learning of two languages, Spanish and Qom.",
+    "description":"I worked on game design, game prototypes, and data entry to make them work. Huo'Ona Cuentos is an educational game that immerses children in a world where the magic of stories merges with the learning of two languages, Spanish and Qom. Through engaging stories and creative challenges, this game teaches children to read and write while exploring cultural diversity. Children embark on adventures that not only develop their language skills, but also allow them to appreciate the richness of Qom culture, promoting bilingual literacy and respect for the diversity of languages and traditions.",
+    "developmentType":["Video games", "Educational"],
+    "projectLogo":"",
+    "modalBanner":"huona.png",
+    "cardBanner":"huona.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"huona_1.png",
+            "alt":"Huona"
+        },
+        { "id":2,
+            "url":"huona_2.png",
+            "alt":"Huona"
+        }
+    ],
+    "areas":["UX Design","QA Testing"],
+    "year":"2021",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"Conicet",
+        "logo":"conicet.png",
+        "logo_color":"conicet_color.png"
+    },
+    "webLink":"",
+    "videoLink":"",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+
+},
+{
+    "id":5,
+    "title": "Identidades Informadas",
+    "shortdescription":"An information platform on the Gender Identity Law, with key material to plan and design public policies that advance the achievement of rights for trans, transvestite and non-binary people.",
+    "description":"An information platform on the Gender Identity Law, with key material to plan and design public policies that advance the achievement of rights for trans, transvestite and non-binary people. The initiative was born with the objective of recovering their demands and their struggles for identity as a human right.",
+    "developmentType":["Web Design", "Educational"],
+    "projectLogo":"",
+    "modalBanner":"identidades_1.png",
+    "cardBanner":"identidades_1.png",
+    "carruselImgs": [
+        {
+            "id":1,
+            "url":"identidades_1.png",
+            "alt":"identidades"
+        },
+        { "id":2,
+            "url":"dentidades_2.png",
+            "alt":"identidades"
+        },
+        { "id":3,
+            "url":"dentidades_3.png",
+            "alt":"identidades"
+        }
+    ],
+    "areas":["UX Design"],
+    "year":"2022",
+    "prizes":[""],
+    "popular":false,
+    "client" : {
+        "name":"Fundar",
+        "logo":"fundar.png",
+        "logo_color":"fundar_color.png"
+    },
+    "webLink":"https://identidadesinformadas.fund.ar/",
+    "videoLink":"",
+    "socials":{
+        "instagram":"",
+        "twitter":"",
+        "discord":"",
+        "linkedin":"",
+        "telegram":"",
+        "medium":""
+    },
+    "android":"",
+    "ios":"",
+    "news":[
+        {
+            "title":"",
+            "link":"",
+            "img":""
+        }
+    ]
+}
+]
